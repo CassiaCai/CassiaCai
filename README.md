@@ -6,3 +6,5 @@ I am interested in continuing to explore climate science and data visualization.
 
 - 📫 Email : fmc2855 at uw.edu
 - 💻  Connect with me on [LinkedIn](https://www.linkedin.com/in/cassia-cai-0b953a143)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CassiaCai&layout=compact)](https://github.com/CassiaCai/github-readme-stats)
