@@ -4,4 +4,5 @@ I am first year PhD student in [Physical Oceanography](https://www.ocean.washing
 
 I am interested in continuing to explore climate science. I'm currently studying marine heatwaves!
 
-- 📫 : fmc2855 at uw.edu
+- 📫 Email : fmc2855 at uw.edu
+- 🥅 Goals : Contribute more to Open Source projects
