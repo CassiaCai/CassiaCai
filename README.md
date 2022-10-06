@@ -4,4 +4,4 @@ I am second year grad student at the [University of Washington](https://www.wash
 
 I am interested in continuing to explore climate science, data science, and data visualization. I'm currently studying marine heatwaves!
 
-- 📫 Email : fmc2855 at uw.edu
+- 📫 Email : fmc2855 [at] uw [dot] edu
